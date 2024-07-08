@@ -1,4 +1,7 @@
-## This paper as well as Heterogeneous window transformer for image denoising is conducted by Chunwei Tian, Menghua Zheng,  Chia-Wen Lin, Zhiwu Li, David Zhang.
+## This paper as well as Heterogeneous window transformer for image denoising is conducted by Chunwei Tian, Menghua Zheng,  Chia-Wen Lin, Zhiwu Li, David Zhang. It is accepted by the IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2024. (Accepted).
+
+![image](https://github.com/hellloxiaotian/HWformer/assets/25679314/e2f53346-fe05-46b9-8c1b-7241ca641b85)
+
 
 ## Its abstract is shown as follows.
 
@@ -118,20 +121,20 @@ python trian.py --mode train --n_pat_per_image 1 --batch_size 8 --model_name bfo
 
 ## You can cite this paper by the following ways.
 
-### 1. Tian, Chunwei, Menghua Zheng, xxx. "Heterogeneous window transformer for image denoising." xxx
+### 1. Chunwei Tian, Menghua Zheng, Chia-Wen Lin, Zhiwu Li, David Zhang. Heterogeneous window transformer for image denoising[J]. IEEE Transactions on Systems, Man, and Cybernetics. 2024.
 
 ### 2.@article{tian2023cross,
    ### title={Heterogeneous window transformer for image
 denoising},
 
-  ### author={xxx},
+  ### author={Chunwei Tian, Menghua Zheng, Chia-Wen Lin, Zhiwu Li, David Zhang},
 
-  ### journal={xxx},
+  ### journal={IEEE Transactions on Systems, Man, and Cybernetics},
 
   ### pages={xxx},
 
-  ### year={xxx},
+  ### year={2024},
 
-  ### publisher={xxx}
+  ### publisher={IEEE}
 ### }
 
