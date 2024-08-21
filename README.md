@@ -45,7 +45,7 @@
 
 ### Test
 
-Download model file at https://pan.baidu.com/s/1BkKo9udW1wCn1ALCYyl_QA (passwd: ipg6)
+Download model file at https://pan.baidu.com/s/1NkQRIRydmH3ADBJBbVnGAA (passwd: a9es)
 
 cd main
 
