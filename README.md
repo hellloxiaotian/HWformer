@@ -124,8 +124,7 @@ python trian.py --mode train --n_pat_per_image 1 --batch_size 8 --model_name bfo
 ### 1. Chunwei Tian, Menghua Zheng, Chia-Wen Lin, Zhiwu Li, David Zhang. Heterogeneous window transformer for image denoising[J]. IEEE Transactions on Systems, Man, and Cybernetics. 2024.
 
 ### 2.@article{tian2023cross,
-   ### title={Heterogeneous window transformer for image
-denoising},
+   ### title={Heterogeneous window transformer for image denoising},
 
   ### author={Chunwei Tian, Menghua Zheng, Chia-Wen Lin, Zhiwu Li, David Zhang},
 
