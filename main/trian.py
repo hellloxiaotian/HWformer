@@ -143,7 +143,7 @@ def test(args, data_loader, save_test_dir, save=False, model_file=None, loss_f=N
         save_dict['denoi_'+img_name] = np_output
 
         psnr_x_ = peak_signal_noise_ratio(np_output, np_img_rgb)
-        ssim_x_ = structural_similarity(np_img_rgb, np_output, multichannel=True)
+        ssim_x_ = structural_similarity(np_img_rgb, np_output, multichannel=True, channel_axis=-1)
         psbr_x_ = compute_psbr(np_img_nos, np_output, np_img_rgb, 255)
         colorDis_x_ = colorDis(cv2.cvtColor(np_output, cv2.COLOR_RGB2BGR), cv2.cvtColor(np_img_rgb, cv2.COLOR_RGB2BGR))
 
