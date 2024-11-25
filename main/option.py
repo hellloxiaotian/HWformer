@@ -42,7 +42,7 @@ parser.add_argument('--ext', type=str, default='sep',
                     help='dataset file extension')
 parser.add_argument('--scale', type=str, default='1',
                     help='super resolution scale')
-parser.add_argument('--patch_size', type=int, default=48,
+parser.add_argument('--patch_size', type=int, default=96,
                     help='output patch size')
 parser.add_argument('--rgb_range', type=int, default=1,
                     help='maximum value of RGB')
